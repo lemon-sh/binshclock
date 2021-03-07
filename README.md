@@ -11,7 +11,7 @@ binshclock operates entirely in the Windows Console and makes use of the Windows
 
 Usage
 ---
-Just run the executable! (you may have to get through a SmartScreen dialog if the executable is not signed).
+Just run the executable! (You may have to get through a SmartScreen dialog).
 To open the About screen click the bottom-right corner of the window.
 
 Building
