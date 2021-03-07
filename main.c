@@ -158,14 +158,12 @@ int main() {
                             COORD click = waitClick(inBuffer);
                             if ((click.X == 12)&&(click.Y == 4)){
                                 clearBuffer(outBuffer);
-                                goto outerbreak;
+                                break;
                             }
                         }
                     }
                 }
             }
         }
-        outerbreak:
-        continue;
     }
 }
